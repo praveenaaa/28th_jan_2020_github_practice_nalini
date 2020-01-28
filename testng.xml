@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="pavani_Suite" >
+  <test name="nalini_Test">
+    <classes>
+      <class name="com.selenium_test.Testng_demo3"/>
+      <class name="com.selenium_test.Testng_demo1"/>
+      <class name="com.selenium_test.Testng_demo2"/>
+      <class name="com.selenium_test.Hdfc_netbanking_frame_demo"/>
+    </classes>
+  </test> <!-- nalini_Test -->
+</suite> <!-- pavani_Suite -->
