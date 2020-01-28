@@ -10,13 +10,13 @@ public class Testng_demo1 {
 WebDriver driver;
 @Test(priority=3,enabled=true)
 public void facebook(){
-	System.out.println("i want to use facebook ");
+	System.out.println("i want to use facebook today on 28th jan  ");
 	
 }
 
 @Test(priority=2,enabled=true)
 public void google(){
-	System.out.println("i want to use google  ");
+	System.out.println("i want to use google today  ");
 	
 	
 }
